@@ -1,3 +1,4 @@
 My first devops project file
 This is my secondline in file
 adding from feature1 branch
+we are adding from master creatin a conflict
